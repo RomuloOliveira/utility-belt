@@ -16,6 +16,7 @@ Some tools that I like
 - [Python Flake8 Lint](https://github.com/dreadatour/Flake8Lint)
   - `"lint_on_save": false`
   - `"pep8_max_line_length": 120`
+  - `"ignore": ["E302", "F403"]`
 
 # node.js
 - [Coffee-Script](http://coffeescript.org/)
