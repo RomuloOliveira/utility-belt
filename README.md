@@ -13,6 +13,8 @@ Some tools that I like
 - [Monokai extended](https://github.com/jonschlinkert/sublime-monokai-extended)
   - Monokai extended bright
 - [Better Coffescript](https://github.com/aponxi/sublime-better-coffeescript)
+  - `"compileOnSave": false`
+  - `"compileDir": "/tmp"`
 - [Python Flake8 Lint](https://github.com/dreadatour/Flake8Lint)
   - `"lint_on_save": false`
   - `"pep8_max_line_length": 120`
