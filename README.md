@@ -22,3 +22,9 @@ Some tools that I like
 
 # node.js
 - [Coffee-Script](http://coffeescript.org/)
+
+# CoffeeScript
+- [coffee-jshint](https://www.npmjs.org/package/coffee-jshint)
+  - `coffee-jshint -o node`
+- [coffeelint](http://www.coffeelint.org/)
+  - `coffeelint -f coffeelint/config.json`
