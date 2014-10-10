@@ -6,7 +6,7 @@ Some tools that I like
 
 # Python
 - [flake8](https://pypi.python.org/pypi/flake8)
-  - `flake8 --exclude='build/*,venv/*' --max-line-length=120 --ignore=E302,F403 .`
+  - `flake8 --exclude='build/*,venv/*' --max-line-length=120 --ignore=E302,F403,E261 .`
 
 # Sublime Text
 - [Package Control](https://sublime.wbond.net/installation)
