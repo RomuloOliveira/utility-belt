@@ -3,6 +3,8 @@ utility-belt
 
 Some tools that I like
 
+# General
+- [EditorConfig](http://editorconfig.org/)
 
 # Python
 - [flake8](https://pypi.python.org/pypi/flake8)
