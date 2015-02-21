@@ -12,6 +12,7 @@ Some tools that I like
 
 # Sublime Text
 - [Package Control](https://sublime.wbond.net/installation)
+- [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime/)
 - [Monokai extended](https://github.com/jonschlinkert/sublime-monokai-extended)
   - Monokai extended bright
 - [Better Coffescript](https://github.com/aponxi/sublime-better-coffeescript)
