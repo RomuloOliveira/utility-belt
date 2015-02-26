@@ -8,7 +8,7 @@ Some tools that I like
 
 # Python
 - [flake8](https://pypi.python.org/pypi/flake8)
-  - `flake8 --exclude='build/*,venv/*' --max-line-length=120 --ignore=E302,F403,E261 .`
+  - `flake8 --exclude='build/*,venv/*' .`
 
 # Sublime Text
 - [Package Control](https://sublime.wbond.net/installation)
@@ -20,8 +20,6 @@ Some tools that I like
   - `"compileDir": "/tmp"`
 - [Python Flake8 Lint](https://github.com/dreadatour/Flake8Lint)
   - `"lint_on_save": false`
-  - `"pep8_max_line_length": 120`
-  - `"ignore": ["E302", "F403"]`
 
 # node.js
 - [Coffee-Script](http://coffeescript.org/)
